@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:injectable/injectable.dart';
-import 'package:injectable_example/application/services/repo.dart';
+import 'package:injectable_example/application/Home/repo.dart';
 
 part 'value_state.dart';
 part 'value_cubit.freezed.dart';

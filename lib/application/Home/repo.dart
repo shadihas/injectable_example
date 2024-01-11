@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
 import 'package:injectable/injectable.dart';
-import 'package:injectable_example/application/services/api_consumer.dart';
+import 'package:injectable_example/application/Home/api_consumer.dart';
 
 abstract class Repository{
   Future<Either<String, int>> getFakeInt();
