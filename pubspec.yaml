@@ -44,6 +44,8 @@ dependencies:
   go_router: ^13.0.1
   dialog_flowtter: ^0.3.3
   flutter_chat_bubble: ^2.0.2
+  cached_network_image: ^3.3.1
+  just_the_tooltip: ^0.0.12
 
 dev_dependencies:
   flutter_test:
